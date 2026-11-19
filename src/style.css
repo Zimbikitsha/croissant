@@ -1,11 +1,18 @@
 body {
-  background-color: #f9e7a5;
+  background-color: #fff3cd;
   text-align: center;
   margin: 60px;
 }
 
 h1 {
   font-size: 40px;
+}
+h1 {
+  color: #654321;
+}
+
+a:hover {
+  color: darkorange;
 }
 
 p {
