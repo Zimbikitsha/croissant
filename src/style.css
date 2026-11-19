@@ -1,18 +1,12 @@
 body {
-  background-color: #E6D5C3;
+  background-color: #FFF3CD;
   text-align: center;
   margin: 60px;
 }
 
 h1 {
-  font-size: 40px;
-}
-h1 {
   color: #654321;
-}
-
-a:hover {
-  color: darkorange;
+  font-size: 40px;
 }
 
 p {
@@ -26,6 +20,10 @@ p {
 a {
   color: green;
   margin: 15px;
+}
+
+a:hover {
+  color: darkorange;
 }
 
 img {
